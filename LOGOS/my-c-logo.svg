@@ -7,10 +7,11 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    sodipodi:docname="my-c-logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -24,16 +25,80 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0482005"
-     inkscape:cx="366.81914"
-     inkscape:cy="145.01043"
-     inkscape:window-width="1440"
-     inkscape:window-height="899"
+     inkscape:cx="365.86512"
+     inkscape:cy="813.77561"
+     inkscape:window-width="2216"
+     inkscape:window-height="1093"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+    <linearGradient
+       id="swatch22"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#a9bacd;stop-opacity:1;"
+         offset="0"
+         id="stop22" />
+    </linearGradient>
+    <linearGradient
+       id="swatch16"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#b0c4de;stop-opacity:1;"
+         offset="0"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="swatch15"
+       inkscape:swatch="solid"
+       inkscape:label="Cadet Grey">
+      <stop
+         style="stop-color:#91a3b0;stop-opacity:1;"
+         offset="0"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="swatch14"
+       inkscape:swatch="solid"
+       inkscape:label="Light Steel Blue">
+      <stop
+         style="stop-color:#b0c4de;stop-opacity:1;"
+         offset="0"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="swatch12"
+       inkscape:swatch="solid"
+       inkscape:label="Black">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="swatch9"
+       inkscape:swatch="solid"
+       inkscape:label="Hit Grey">
+      <stop
+         style="stop-color:#a1a9a8;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+    </linearGradient>
+    <rect
+       x="-245.1821"
+       y="257.58431"
+       width="385.42245"
+       height="242.32005"
+       id="rect5" />
+    <rect
+       x="184.12508"
+       y="193.66524"
+       width="162.18271"
+       height="128.79215"
+       id="rect4" />
     <rect
        x="113.33131"
        y="555.86311"
@@ -46,31 +111,288 @@
        width="496.49909"
        height="261.74137"
        id="rect2" />
+    <rect
+       x="113.33131"
+       y="555.8631"
+       width="528.87946"
+       height="310.31192"
+       id="rect3-7" />
+    <rect
+       x="113.33131"
+       y="555.8631"
+       width="528.87946"
+       height="310.31192"
+       id="rect3-7-3" />
+    <rect
+       x="113.33131"
+       y="555.8631"
+       width="528.87946"
+       height="310.31192"
+       id="rect3-7-9" />
+    <rect
+       x="113.33131"
+       y="555.8631"
+       width="528.87946"
+       height="310.31192"
+       id="rect3-7-9-3" />
+    <rect
+       x="113.33131"
+       y="555.8631"
+       width="528.87946"
+       height="310.31192"
+       id="rect3-7-9-3-9" />
+    <rect
+       x="113.33131"
+       y="555.8631"
+       width="528.87946"
+       height="310.31192"
+       id="rect3-7-9-3-1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch12"
+       id="linearGradient12"
+       x1="106.98438"
+       y1="205.12418"
+       x2="168.56439"
+       y2="205.12418"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,10.583333)" />
+    <rect
+       x="113.33131"
+       y="555.8631"
+       width="528.87946"
+       height="310.31192"
+       id="rect3-7-9-3-1-2" />
+    <rect
+       x="113.33131"
+       y="555.8631"
+       width="528.87946"
+       height="310.31192"
+       id="rect3-7-9-3-1-0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch14"
+       id="linearGradient14"
+       x1="41.435616"
+       y1="215.70752"
+       x2="103.01562"
+       y2="215.70752"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch15"
+       id="linearGradient15"
+       x1="41.435616"
+       y1="150.15875"
+       x2="103.01562"
+       y2="150.15875"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="113.33131"
+       y="555.8631"
+       width="528.87946"
+       height="310.31192"
+       id="rect3-7-9-3-1-0-8" />
+    <rect
+       x="113.33131"
+       y="555.8631"
+       width="528.87946"
+       height="310.31192"
+       id="rect3-7-9-3-1-0-8-8" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch9"
+       id="linearGradient22"
+       x1="116.46223"
+       y1="84.609993"
+       x2="159.08653"
+       y2="84.609993"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch15"
+       id="linearGradient23"
+       gradientUnits="userSpaceOnUse"
+       x1="116.46223"
+       y1="84.609993"
+       x2="159.08653"
+       y2="84.609993"
+       gradientTransform="translate(1.1596192e-6,65.548759)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch14"
+       id="linearGradient25"
+       gradientUnits="userSpaceOnUse"
+       x1="116.46223"
+       y1="84.609993"
+       x2="159.08653"
+       y2="84.609993"
+       gradientTransform="translate(4.3696191e-6,131.09752)" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       id="path1"
-       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
-       cx="67.11058"
-       cy="93.526443"
-       r="0.095096424" />
+    <rect
+       style="fill:none;stroke:url(#linearGradient12);stroke-width:1"
+       id="rect1-4-4"
+       width="60.580009"
+       height="60.580009"
+       x="107.48438"
+       y="185.41751"
+       ry="7.020555"
+       inkscape:label="C LightSteelBlue" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="rect1-4"
+       width="60.580009"
+       height="60.580009"
+       x="107.48438"
+       y="119.86875"
+       ry="7.020555"
+       inkscape:label="C Cadet Grey" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="rect1"
+       width="60.580009"
+       height="60.580009"
+       x="107.48438"
+       y="54.319988"
+       ry="7.020555"
+       inkscape:label="C Hit Grey" />
+    <rect
+       style="fill:url(#linearGradient14);stroke:#000000;stroke-width:1;fill-opacity:1"
+       id="rect1-2-9-3"
+       width="60.580009"
+       height="60.580009"
+       x="41.935616"
+       y="185.41751"
+       ry="7.020555"
+       inkscape:label="Rect LightSteelBlue" />
+    <rect
+       style="fill:url(#linearGradient15);fill-opacity:1;stroke:#000000;stroke-width:1"
+       id="rect1-2-9"
+       width="60.580009"
+       height="60.580009"
+       x="41.935616"
+       y="119.86875"
+       ry="7.020555"
+       inkscape:label="Rect Cadet Grey" />
+    <rect
+       style="fill:#a1a9a8;fill-opacity:1;stroke:#000000;stroke-width:1"
+       id="rect1-2"
+       width="60.580009"
+       height="60.580009"
+       x="41.935616"
+       y="54.319988"
+       ry="7.020555"
+       inkscape:label="Rect Hit Grey" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,8.018324,-126.56235)"
-       id="text3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:#000000;stroke:none;stroke-opacity:1;fill-opacity:1"><tspan
+       transform="matrix(0.62660293,0,0,0.55797236,-24.2869,-115.99171)"
+       id="text3-3-0-5-5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-9-3-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:label="LightSteelBlue"><tspan
          x="113.33203"
          y="567.14672"
-         id="tspan1">Traditionally, the logo of the C language is uppercase letter 'C' in font Helvetica of weight </tspan><tspan
+         id="tspan4">LightSteelBlue
+</tspan><tspan
          x="113.33203"
          y="582.14672"
-         id="tspan2">black. Typically colored in shades of blue and grey, such as Hit Grey, Cadet Grey, or </tspan><tspan
+         id="tspan5">
+</tspan><tspan
          x="113.33203"
          y="597.14672"
-         id="tspan3">LightSteelBlue.
+         id="tspan6">    #B0C4DE</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.7774016,-126.56235)"
+       id="text3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:label="Blurb"><tspan
+         x="113.33203"
+         y="567.14672"
+         id="tspan7">Traditionally, the logo of the C language is an uppercase letter 'C' in the font Helvetica and of </tspan><tspan
+         x="113.33203"
+         y="582.14672"
+         id="tspan8">weight black. Typically colored in shades of blue and grey, such as Hit Grey, Cadet Grey, or </tspan><tspan
+         x="113.33203"
+         y="597.14672"
+         id="tspan9">LightSteelBlue.
+</tspan><tspan
+         x="113.33203"
+         y="612.14672"
+         id="tspan10">
+</tspan><tspan
+         x="113.33203"
+         y="627.14672"
+         id="tspan11">https://color-register.org/color/hit-grey
+</tspan><tspan
+         x="113.33203"
+         y="642.14672"
+         id="tspan12">https://color-register.org/color/cadet-grey
+</tspan><tspan
+         x="113.33203"
+         y="657.14672"
+         id="tspan13">https://color-register.org/color/light-steel-blue</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.62660293,0,0,0.55797236,-24.2869,-181.5568)"
+       id="text3-3-0-5-5-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-9-3-1-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:label="Cadet Grey"><tspan
+         x="113.33203"
+         y="567.14672"
+         id="tspan14">Cadet Grey
+</tspan><tspan
+         x="113.33203"
+         y="582.14672"
+         id="tspan15">
+</tspan><tspan
+         x="113.33203"
+         y="597.14672"
+         id="tspan16">    #91A3B0
 </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.62660293,0,0,0.55797236,-24.2869,-247.10558)"
+       id="text3-3-0-5-5-4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-7-9-3-1-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:label="Hit Grey"><tspan
+         x="113.33203"
+         y="567.14672"
+         id="tspan17">Hit Grey
+</tspan><tspan
+         x="113.33203"
+         y="582.14672"
+         id="tspan18">
+</tspan><tspan
+         x="113.33203"
+         y="597.14672"
+         id="tspan19">    #A1A9A8</tspan></text>
+    <path
+       fill="#a9bacd"
+       d="M 159.08654,79.71868 C 157.68901,68.538529 150.70143,62.249697 137.425,62.249697 c -11.8789,0 -20.96277,8.385109 -20.96277,22.360288 0,13.625802 8.38511,22.360305 22.36029,22.360305 11.18015,0 19.21588,-6.63822 20.26402,-17.468987 h -13.27643 c -0.69876,3.843179 -2.79504,6.987595 -6.98759,6.987595 -7.33697,0 -8.38511,-5.590081 -8.38511,-11.529525 0,-8.035734 2.79504,-12.228289 7.68636,-12.228289 4.54193,0 6.98758,2.445652 7.68634,6.987596 z"
+       id="path1"
+       style="stroke-width:0.349379;fill:url(#linearGradient22)"
+       inkscape:export-filename="C_Hit_Grey_503x528.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       fill="#a9bacd"
+       d="m 159.08654,145.26744 c -1.39753,-11.18015 -8.38511,-17.46898 -21.66154,-17.46898 -11.8789,0 -20.96277,8.3851 -20.96277,22.36029 0,13.6258 8.38511,22.3603 22.36029,22.3603 11.18015,0 19.21588,-6.63822 20.26402,-17.46899 h -13.27643 c -0.69876,3.84318 -2.79504,6.9876 -6.98759,6.9876 -7.33697,0 -8.38511,-5.59008 -8.38511,-11.52952 0,-8.03574 2.79504,-12.2283 7.68636,-12.2283 4.54193,0 6.98758,2.44565 7.68634,6.9876 z"
+       id="path1-7"
+       style="fill:url(#linearGradient23);stroke-width:0.349379"
+       inkscape:export-filename="C_Cadet_Grey_503x528.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       fill="#a9bacd"
+       d="m 159.08654,210.8162 c -1.39753,-11.18015 -8.38511,-17.46898 -21.66154,-17.46898 -11.8789,0 -20.96277,8.38511 -20.96277,22.36028 0,13.62581 8.38511,22.36031 22.36029,22.36031 11.18015,0 19.21588,-6.63822 20.26402,-17.46899 h -13.27643 c -0.69876,3.84318 -2.79504,6.9876 -6.98759,6.9876 -7.33697,0 -8.38511,-5.59008 -8.38511,-11.52953 0,-8.03573 2.79504,-12.22829 7.68636,-12.22829 4.54193,0 6.98758,2.44566 7.68634,6.9876 z"
+       id="path1-3"
+       style="fill:url(#linearGradient25);stroke-width:0.349379"
+       inkscape:export-filename="C_LightSteelBlue_503x528.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
 </svg>
