@@ -1,6 +1,6 @@
 # LOGOS
 
-Traditionally, the logo of the C language is the uppercase letter 'C' in font *Helvetica* of weight *black*. Typically coloured in shades of blue and grey, such as *[Hit Grey](https://color-register.org/color/hit-grey)*, *[Cadet Grey](https://color-register.org/color/cadet-grey)*, or *[LightSteelBlue](https://color-register.org/color/light-steel-blue)*.
+Traditionally, the logo of the C language is the uppercase letter 'C' in font *Helvetica* of weight *black*. Typically coloured in shades of blue and grey, such as *[Hit Grey](https://color-register.org/color/hit-grey)*, *[Cadet Grey](https://color-register.org/color/cadet-grey)*, or *[LightSteelBlue](https://color-register.org/color/light-steel-blue)*. (As per the [Official C Website](https://www.c-language.org/faq) )
 
 The images on this site for the C Logo were created by me using [Inkscape](https://inkscape.org/) and scaled using [GIMP](https://www.gimp.org/).
 
