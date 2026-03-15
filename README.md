@@ -1,6 +1,8 @@
 # RESOURCE
 global resources for projects - readme files and wikis
 
+![LOGOS/Size Comparison libc DOSLIBC vs Watcom.png](https://github.com/cspjst/RESOURCE/blob/main/LOGOS/Size%20Comparison%20libc%20DOSLIBC%20vs%20Watcom.png)
+
 ![DbC_Shield_256x228.png](https://github.com/cspjst/RESOURCE/blob/main/LOGOS/DbC_Shield_256x228.png)
 ![DbC_Shield_128x114.png](https://github.com/cspjst/RESOURCE/blob/main/LOGOS/DbC_Shield_128x114.png)
 
